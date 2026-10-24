@@ -1,0 +1,5 @@
+.env
+user.json
+__pycache__/
+venv/
+.venv/
